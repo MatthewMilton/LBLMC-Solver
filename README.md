@@ -1,6 +1,6 @@
 # LB-LMC Solver C++ Library
 
-Object-Oriented C++ Library for the development of real-time simulation solvers of multi-physics systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
+Object-Oriented C++ Library for the development of real-time simulation solvers of multi-physics systems, such as electrical and power electronic systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
 
 ## Requirements
 
