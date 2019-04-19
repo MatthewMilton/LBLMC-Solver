@@ -11,6 +11,16 @@ This library requires C++03 or higher.
 The main library depends on only C++ standard library.  The optional partial code generation components requires the following third-party libraries to compile:
   * Eigen 3 -- Linear Algebra Template Library http://eigen.tuxfamily.org/
 
+## Compilation and High-Level Synthesis
+
+The library supports software compilation using:
+ * GCC
+ * MinGW
+ * Any C++ compiler suite that supports standard C++03 or higher
+ 
+Also supported by this library is FPGA high-level synthesis (HLS) which converts C++ code into hardware description languages (HDL, such as VHDL or Verilog) to be implemented as logic designs on FPGAs.  The library supports the following HLS tools:
+* Xilinx Vivado HLS 2016.1 and up (tool supports only Xilinx FPGA platforms)
+
 ## License
 
 LB-LMC Solver C++ Library is licensed under the GNU General Public License (GPL) v3.0 (https://www.gnu.org/licenses/).
