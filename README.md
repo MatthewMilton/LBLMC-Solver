@@ -3,6 +3,8 @@
 This library is deprecated and is replaced by the solver codegen tools within the Open Real-Time Simulation (ORTiS) framework found here:
 https://github.com/OpenRealTimeSimulation
 
+This library is kept here as an educational reference implementation for LB-LMC simulation solvers.
+
 ----
 
 Object-Oriented C++ Library for the development of real-time simulation solvers of multi-physics systems, such as electrical and power electronic systems, utilizing the Latency-Based Linear Multistep Compound (LB-LMC) method.
